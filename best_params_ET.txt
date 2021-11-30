@@ -1,0 +1,1 @@
+{'random_state': 1, 'n_estimators': 1000, 'max_features': 'log2', 'max_depth': 32.0, 'bootstrap': True}
